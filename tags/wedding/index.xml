@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>驽騂难得</title>
-    <link>/</link>
-    <description>驽騂难得</description>
+    <title>Wedding on 驽騂难得</title>
+    <link>/tags/wedding/</link>
+    <description>驽騂难得 (Wedding)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,7 +16,7 @@
     <copyright>© margot chen 2025</copyright>
     <lastBuildDate>Sat, 25 Jan 2025 12:47:35 -0800</lastBuildDate>
     
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/wedding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -59,17 +59,6 @@
 &lt;p&gt;因为catering也在庙里，也少不了来吃白食的。有个白人老哥就坐在一众棕色宾客之间，看到我就问：你是新娘子？恭喜恭喜！转头继续大嚼咖喱和囊。&lt;/p&gt;
 &lt;p&gt;饭后回家，还有更多仪式，此处略过不提。婚礼之后第二天再见到in-laws，他们免不了又叮嘱我要涂sindoor（涂在额头正中发际的红粉），要带项链戒指手环脚环，这样人们才知道我是hindu已婚妇女。因为知道我此生与他们相处的时间不过几日而已，知道他们这些期待必然落空，我答应得毕恭毕敬，第二天就把所有首饰锁进最深的抽屉。&lt;/p&gt;
 &lt;p&gt;送走in-laws，想着他们这些可怜可笑的期待，以及我父母完全不同但一样可怜可笑的期待，觉得十分悲哀。我也会成为母亲，也许有一天也会抱有和上一辈类似的心情。希望那时候，我也记得我曾经是女儿。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sat, 25 Jan 2025 09:52:26 -0800</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;p&gt;一个普通中年人，现居温哥华。以写代码为生。&lt;/p&gt;
-&lt;p&gt;希望写好中文。&lt;/p&gt;
-</description>
     </item>
     
   </channel>
