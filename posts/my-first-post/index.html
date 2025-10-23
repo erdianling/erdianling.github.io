@@ -459,6 +459,19 @@
 
     
         
+    
+    
+    <div class="pagination post-pagination">
+        <div class="left pagination-item ">
+            
+                <a href="/posts/shengchanji/">生产记</a>
+            
+        </div>
+        <div class="right pagination-item disabled">
+            
+        </div>
+    </div>
+
 
 
 
@@ -472,6 +485,33 @@
 
 
 
+
+
+
+
+
+    
+<div id="twikoo-comments"></div>
+<script src="https://unpkg.com/twikoo@1.6.44/dist/twikoo.all.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    console.log('Initializing Twikoo...');
+    console.log('Environment ID:', 'https:\/\/dancing-praline-19b29a.netlify.app\/.netlify\/functions\/twikoo');
+    console.log('Element:', '#twikoo-comments');
+    
+    twikoo.init({
+      envId: 'https:\/\/dancing-praline-19b29a.netlify.app\/.netlify\/functions\/twikoo',
+      el: '#twikoo-comments',
+      region: '',
+      path: location.pathname,
+      lang: 'en'
+    }).then(function() {
+      console.log('Twikoo initialized successfully');
+    }).catch(function(error) {
+      console.error('Twikoo initialization failed:', error);
+    });
+  });
+</script>
 
 
 
